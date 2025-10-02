@@ -1,4 +1,4 @@
-# 3D: F: Object Generation (10p) – Spiral Staircase
+# Object Generation – Spiral Staircase
 
 This plugin serves as a simple generator for spiral staircases.
 
